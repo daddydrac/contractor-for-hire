@@ -1,0 +1,20 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://daddydrac.github.io/#person>
+  a schema:Person ;
+  schema:name "Joseph William Hoeller" ;
+  schema:jobTitle "Principal AI Solutions Architect" ;
+  schema:email <mailto:joehoeller@gmail.com> ;
+  schema:telephone "+1-512-348-5756" ;
+  schema:url <https://daddydrac.github.io/> ;
+  schema:sameAs <https://www.linkedin.com/in/computer-vision-engineer/> ,
+                <https://github.com/daddydrac/Deep-Learning-Ultra> ,
+                <https://medium.com/@joehoeller> ;
+  schema:knowsAbout "AI Architecture", "RDF", "OWL", "Knowledge Graphs", "RAG", "AI Agents", "CUDA", "HPC", "Computer Vision" .
+
+<https://daddydrac.github.io/#service>
+  a schema:ProfessionalService ;
+  schema:name "Joseph Hoeller Contract AI Architecture" ;
+  schema:provider <https://daddydrac.github.io/#person> ;
+  schema:serviceType "AI Architecture", "Knowledge Graph Consulting", "RAG Deployment", "Agent Systems", "GPU/HPC Infrastructure", "Computer Vision" .
