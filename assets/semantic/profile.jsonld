@@ -4,12 +4,11 @@
   "@id": "https://daddydrac.github.io/#person",
   "name": "Principal AI ML Engineer",
   "jobTitle": "Principal AI ML Engineer",
-  "email": "mailto:joehoeller@gmail.com",
+  "email": "mailto:contract.work.info@gmail.com",
   "url": "https://daddydrac.github.io/",
   "sameAs": [
     "https://www.linkedin.com/in/computer-vision-engineer/",
     "https://github.com/daddydrac/Deep-Learning-Ultra",
-    "https://medium.com/@joehoeller"
   ],
   "knowsAbout": [
     "AI Architecture",
@@ -19,7 +18,6 @@
     "RAG",
     "Agents",
     "CUDA",
-    "HPC",
     "Computer Vision"
   ]
 }
