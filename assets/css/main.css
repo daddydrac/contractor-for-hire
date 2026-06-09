@@ -100,7 +100,7 @@ address { font-style: normal; }
 .brand-mark {
   display: grid;
   place-items: center;
-  width: 2.35rem;
+  width: 5.35rem;
   height: 2.35rem;
   color: #fff;
   background: linear-gradient(135deg, var(--night), var(--accent));
