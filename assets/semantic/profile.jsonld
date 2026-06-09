@@ -2,10 +2,9 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://daddydrac.github.io/#person",
-  "name": "Joseph William Hoeller",
-  "jobTitle": "Principal AI Solutions Architect",
+  "name": "Principal AI ML Engineer",
+  "jobTitle": "Principal AI ML Engineer",
   "email": "mailto:joehoeller@gmail.com",
-  "telephone": "+1-512-348-5756",
   "url": "https://daddydrac.github.io/",
   "sameAs": [
     "https://www.linkedin.com/in/computer-vision-engineer/",
