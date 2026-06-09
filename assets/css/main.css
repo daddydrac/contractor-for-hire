@@ -349,7 +349,7 @@ address { font-style: normal; }
 .section-heading { max-width: 38rem; }
 .section-heading h2 {
   margin: 0;
-  font-size: clamp(2.7rem, 7vw, 6.8rem);
+  font-size: clamp(2.7rem, 5.3vw, 6.8rem);
   line-height: .88;
   letter-spacing: -.08em;
 }
