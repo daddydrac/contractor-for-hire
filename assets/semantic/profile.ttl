@@ -5,12 +5,11 @@
   a schema:Person ;
   schema:name "Principal AI ML Engineer and Architect" ;
   schema:jobTitle "Principal AI ML Engineer and Architect" ;
-  schema:email <mailto:joehoeller@gmail.com> ;
+  schema:email <mailto:contract.work.info@gmail.com> ;
   schema:url <https://daddydrac.github.io/> ;
   schema:sameAs <https://www.linkedin.com/in/computer-vision-engineer/> ,
-                <https://github.com/daddydrac/Deep-Learning-Ultra> ,
-                <https://medium.com/@joehoeller> ;
-  schema:knowsAbout "AI Architecture", "RDF", "OWL", "Knowledge Graphs", "RAG", "AI Agents", "CUDA", "HPC", "Computer Vision" .
+                <https://github.com/daddydrac/Deep-Learning-Ultra> ;
+  schema:knowsAbout "AI Architecture", "RDF", "OWL", "Knowledge Graphs", "RAG", "AI Agents", "CUDA", "Computer Vision" .
 
 <https://daddydrac.github.io/#service>
   a schema:ProfessionalService ;
